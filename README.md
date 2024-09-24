@@ -6,3 +6,7 @@ mango
 3
 4
 5
+pizza
+pasta
+lion
+elephant
